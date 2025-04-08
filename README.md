@@ -8,7 +8,6 @@ Sou um entusiasta de **Ciência de Dados** em formação, apaixonado por transfo
 🐍 Especializado em Python para análise e modelagem de dados  
 🧠 Explorando Machine Learning com bibliotecas como Scikit-learn, Pandas, Matplotlib e TensorFlow  
 🗃️ Praticando extração e manipulação de dados com SQL  
-📊 Apaixonado por contar histórias com dados e gerar impacto através da análise
 
 ## 📁 Repositórios em destaque
 
