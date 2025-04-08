@@ -15,7 +15,7 @@ Sou um entusiasta de **Ciência de Dados** em formação, apaixonado por transfo
   Projetos focados em EDA usando Pandas, Matplotlib e Seaborn.
 
 - 🤖 **Modelos de Machine Learning**  
-  Classificação, regressão e clustering com Scikit-learn.
+  Classificação, regressão e clusterização com Scikit-learn.
 
 - 🛠️ **Projetos práticos com SQL**  
   Consultas e manipulação de bases de dados relacionais.
