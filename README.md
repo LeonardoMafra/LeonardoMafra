@@ -37,8 +37,9 @@ Estou sempre buscando evoluir, aprendendo novas ferramentas e conceitos da área
 
 Fique à vontade para explorar meus projetos, deixar sugestões ou entrar em contato!
 
-- 🌐 [LinkedIn](https://www.linkedin.com/) *(adicione seu link)*
-- 📫 E-mail: seuemail@exemplo.com
+- 🌐 [LinkedIn](www.linkedin.com/in/leonardo-freitas-mafra)
+- 📫 E-mail: leonardo98mafra@gmail.com
+- 🖥️ [Kaggle](https://www.kaggle.com/leonardomafra)
 
 ---
 
