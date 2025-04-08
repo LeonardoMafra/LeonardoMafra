@@ -29,7 +29,7 @@ Estou sempre buscando evoluir, aprendendo novas ferramentas e conceitos da área
 
 - Aprendizado de máquina supervisionado e não supervisionado  
 - Engenharia de atributos e preparação de dados  
-- Visualização de dados interativa com Plotly e Dash  
+- Visualização de dados interativa com Power BI, Looker e Streamlit
 - Modelagem estatística e validação de modelos  
 - Git e versionamento de projetos
 
